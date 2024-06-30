@@ -4,9 +4,11 @@ SAProgressbar is very light weight library for progressView like story loading i
 ![Screen Recording SAProgressbar](https://github.com/shabbirmateen/SAProgessbar/assets/26703994/0aa0ea09-a05c-46a8-96ac-2e4df1be437d)
 
 
+
 ### **Getting Started**
 
 An Sample project is included for demonstrating the functionality of SAProgressbar
+
 
 ### **Manual Installation**
 
@@ -23,10 +25,14 @@ Clone the repo and drag files from SAProgressbar/Source folder into your Xcode p
 ### **Code**
 
 Set number of progressbar based on total sliding page or Image.
+
 `saProgressbar.noOfBar = 5`
 
+
 Set the timer in seconds for loading one progressbar
+
 `saProgressbar.timeCount = 3`
+
 
 ### **Methods**
 
